@@ -1,0 +1,8 @@
+﻿  CV1.cpp
+C:\Users\karel\Downloads\opencv\CV1\CV1\CV1.cpp(39,43): warning C4309: аргумент: усечение константного значения
+  Создание кода
+  9 of 188 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CV1.vcxproj -> C:\Users\karel\Downloads\opencv\CV1\x64\Release\CV1.exe
